@@ -1,0 +1,22 @@
+.table{
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+    display: table;
+}
+.header{
+    display: table-header-group;
+    background: #638eeb;
+}
+.colum{
+    display: table-column-group;
+    background-color: aqua;
+}
+.row{
+    display: table-row;
+}
+.col{
+    display: table-cell;
+    border: 1px solid #000;
+    padding: 10px;  
+}
